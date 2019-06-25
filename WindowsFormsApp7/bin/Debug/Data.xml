@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<dataclass xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Kob_str1>16</Kob_str1>
+  <Tob_str1>20</Tob_str1>
+  <t_zap_str1>20</t_zap_str1>
+  <y_max_str1>50</y_max_str1>
+  <dYst_zad_str1>15</dYst_zad_str1>
+  <tp_zad_str1>200</tp_zad_str1>
+  <dXvx_str1>2</dXvx_str1>
+  <p_str1>5</p_str1>
+</dataclass>
